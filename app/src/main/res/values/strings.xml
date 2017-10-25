@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChatCat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inbox">Inbox</string>
+    <string name="drafts">Drafts</string>
+    <string name="sentItems">Sent Items</string>
+    <string name="feedback">Feedback</string>
+    <string name="trash">Trash</string>
+    <string name="help">Help</string>
+    <string name="user_name">spot@catchat.com</string>
+    <string name="nav_inbox">Mesagez</string>
+    <string name="nav_drafts">Draftz</string>
+    <string name="nav_sent">Sent mesagez</string>
+    <string name="nav_trash">In da trash</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Halp</string>
+    <string name="nav_feedback">Giv us feedback</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="halpActivity">Halp is on the Way!</string>
+    <string name="feedbackActivity">GIVE ME SOME FEEDBACK!</string>
+    <string name="nav_extraGroup">DOGS!</string>
+    <string name="nav_dogs">Dogs Are Better!</string>
+    <string name="nav_puppies">Puppies Are Cuter!</string>
+    <string name="nav_aspca">ASPCA</string>
+    <string name="dogsarebetter">Dogs Are Better than Cats!</string>
+    <string name="puppiesAreCuter">Puppies Are Cuter than Cats!</string>
+    <string name="aspca">ASPCA \n https://www.aspca.org/</string>
+    <string name="anotherActivity">War Dogs</string>
+    <string name="wardog">Michigan War Dog Cemetary \n http://www.mwdm.org/</string>
+</resources>
